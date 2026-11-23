@@ -1,0 +1,248 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 7 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 2598 >>
+stream
+BT
+/F1 10 Tf
+/F1 14 Tf
+1 0 0 1 48 760 Tm
+(KODATI VAMSHI KRISHNA) Tj
+/F1 10 Tf
+1 0 0 1 48 741 Tm
+(Full Stack Developer | AI & Data Science) Tj
+/F1 10 Tf
+1 0 0 1 48 722 Tm
+(Hyderabad, Telangana | +91 93925 98134 | vamshikrishnakodati14@gmail.com) Tj
+/F1 10 Tf
+1 0 0 1 48 703 Tm
+() Tj
+/F1 14 Tf
+1 0 0 1 48 684 Tm
+(PROFESSIONAL SUMMARY) Tj
+/F1 10 Tf
+1 0 0 1 48 665 Tm
+(Full Stack Developer and AI & Data Science graduate with experience in workflow) Tj
+/F1 10 Tf
+1 0 0 1 48 646 Tm
+(applications, REST APIs, PostgreSQL systems, and AI/ML prototypes.) Tj
+/F1 10 Tf
+1 0 0 1 48 627 Tm
+(Contributed to the HMWSSB Works Management System with React, Node,) Tj
+/F1 10 Tf
+1 0 0 1 48 608 Tm
+(Express, PostgreSQL, role-based access, and Docker.) Tj
+/F1 10 Tf
+1 0 0 1 48 589 Tm
+() Tj
+/F1 14 Tf
+1 0 0 1 48 570 Tm
+(TECHNICAL SKILLS) Tj
+/F1 10 Tf
+1 0 0 1 48 551 Tm
+(Languages: Python, JavaScript \(ES6+\), Java, SQL) Tj
+/F1 10 Tf
+1 0 0 1 48 532 Tm
+(Frontend: React, HTML5, CSS3, Bootstrap, Vite, TypeScript) Tj
+/F1 10 Tf
+1 0 0 1 48 513 Tm
+(Backend: Node.js, Express, REST APIs, Spring Boot) Tj
+/F1 10 Tf
+1 0 0 1 48 494 Tm
+(Databases: PostgreSQL, MySQL, MongoDB) Tj
+/F1 10 Tf
+1 0 0 1 48 475 Tm
+(AI / ML: NLP, TF-IDF, Pandas, NumPy, Scikit-learn, YOLOv8, OpenCV) Tj
+/F1 10 Tf
+1 0 0 1 48 456 Tm
+(Tools: Git, GitHub, Docker, AWS EC2, Linux, Nginx, Maven, Gradle) Tj
+/F1 10 Tf
+1 0 0 1 48 437 Tm
+(Quality: Playwright, API testing, regression testing, debugging) Tj
+/F1 10 Tf
+1 0 0 1 48 418 Tm
+(Practices: OOP, DSA fundamentals, Agile, documentation, CI/CD fundamentals) Tj
+/F1 10 Tf
+1 0 0 1 48 399 Tm
+() Tj
+/F1 14 Tf
+1 0 0 1 48 380 Tm
+(EXPERIENCE) Tj
+/F1 10 Tf
+1 0 0 1 48 361 Tm
+(HMWSSB - Full Stack Development Intern) Tj
+/F1 10 Tf
+1 0 0 1 48 342 Tm
+(- Contributed to workflows for estimates, approvals, procurement, execution,) Tj
+/F1 10 Tf
+1 0 0 1 48 323 Tm
+(  measurements, billing, and finance.) Tj
+/F1 10 Tf
+1 0 0 1 48 304 Tm
+(- Built React UI, integrated backend APIs, and worked with PostgreSQL.) Tj
+/F1 10 Tf
+1 0 0 1 48 285 Tm
+(- Supported role-aware workflows and Docker-based AWS EC2 testing.) Tj
+/F1 10 Tf
+1 0 0 1 48 266 Tm
+() Tj
+/F1 10 Tf
+1 0 0 1 48 247 Tm
+(Tao Digital - AI Data Annotation and AI Training Intern) Tj
+/F1 10 Tf
+1 0 0 1 48 228 Tm
+(- Labeled, reviewed, and quality-checked annotated training data.) Tj
+/F1 10 Tf
+1 0 0 1 48 209 Tm
+() Tj
+/F1 10 Tf
+1 0 0 1 48 190 Tm
+(MNNLR - ML Developer Intern) Tj
+/F1 10 Tf
+1 0 0 1 48 171 Tm
+(- Worked on YOLOv8 chess-piece detection and dataset preparation) Tj
+/F1 10 Tf
+1 0 0 1 48 152 Tm
+(  involving more than 3,000 images and a chess-learning eBook.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 7 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2349 >>
+stream
+BT
+/F1 10 Tf
+/F1 14 Tf
+1 0 0 1 48 760 Tm
+(KODATI VAMSHI KRISHNA - RESUME) Tj
+/F1 10 Tf
+1 0 0 1 48 741 Tm
+() Tj
+/F1 14 Tf
+1 0 0 1 48 722 Tm
+(SELECTED PROJECTS) Tj
+/F1 10 Tf
+1 0 0 1 48 703 Tm
+(HMWSSB Works Management System) Tj
+/F1 10 Tf
+1 0 0 1 48 684 Tm
+(React, Node.js, Express.js, PostgreSQL, REST APIs, RBAC, Docker) Tj
+/F1 10 Tf
+1 0 0 1 48 665 Tm
+(- Government workflow platform for estimates, approvals, procurement,) Tj
+/F1 10 Tf
+1 0 0 1 48 646 Tm
+(  tenders, execution, measurements, billing, and finance.) Tj
+/F1 10 Tf
+1 0 0 1 48 627 Tm
+() Tj
+/F1 10 Tf
+1 0 0 1 48 608 Tm
+(Salary Statement Generation Application) Tj
+/F1 10 Tf
+1 0 0 1 48 589 Tm
+(Java, Spring Boot, PostgreSQL) Tj
+/F1 10 Tf
+1 0 0 1 48 570 Tm
+(- Payroll data structures for wings, divisions, employees, earnings,) Tj
+/F1 10 Tf
+1 0 0 1 48 551 Tm
+(  deductions, net pay, imports, mapping, validation, and approvals.) Tj
+/F1 10 Tf
+1 0 0 1 48 532 Tm
+() Tj
+/F1 10 Tf
+1 0 0 1 48 513 Tm
+(Fake Job Posting Detection) Tj
+/F1 10 Tf
+1 0 0 1 48 494 Tm
+(Python, Pandas, NumPy, Scikit-learn, TF-IDF, FastAPI, React) Tj
+/F1 10 Tf
+1 0 0 1 48 475 Tm
+(- Text classification prototype for potentially fraudulent job ads.) Tj
+/F1 10 Tf
+1 0 0 1 48 456 Tm
+() Tj
+/F1 10 Tf
+1 0 0 1 48 437 Tm
+(YOLOv8 Chess Piece Detection) Tj
+/F1 10 Tf
+1 0 0 1 48 418 Tm
+(Python, YOLOv8, OpenCV, Roboflow) Tj
+/F1 10 Tf
+1 0 0 1 48 399 Tm
+(- Computer vision prototype for detecting chess pieces.) Tj
+/F1 10 Tf
+1 0 0 1 48 380 Tm
+() Tj
+/F1 14 Tf
+1 0 0 1 48 361 Tm
+(TECHNICAL TRAINING) Tj
+/F1 10 Tf
+1 0 0 1 48 342 Tm
+(JSpiders - Python Full Stack Development \(3 months\)) Tj
+/F1 10 Tf
+1 0 0 1 48 323 Tm
+(HackerBook Technologies - Systems, Networking and SOC \(3 months\)) Tj
+/F1 10 Tf
+1 0 0 1 48 304 Tm
+() Tj
+/F1 14 Tf
+1 0 0 1 48 285 Tm
+(EDUCATION) Tj
+/F1 10 Tf
+1 0 0 1 48 266 Tm
+(B.Tech - Artificial Intelligence and Data Science | JBIET, Hyderabad) Tj
+/F1 10 Tf
+1 0 0 1 48 247 Tm
+(2022-2025 | CGPA: 7.5) Tj
+/F1 10 Tf
+1 0 0 1 48 228 Tm
+(Diploma - Mechanical Engineering | Anurag Engineering College) Tj
+/F1 10 Tf
+1 0 0 1 48 209 Tm
+(2019-2022 | CGPA: 8.04) Tj
+/F1 10 Tf
+1 0 0 1 48 190 Tm
+(SSC - Sri Vyshnavi High School | CGPA: 9.3) Tj
+/F1 10 Tf
+1 0 0 1 48 171 Tm
+() Tj
+/F1 14 Tf
+1 0 0 1 48 152 Tm
+(VOLUNTEERING) Tj
+/F1 10 Tf
+1 0 0 1 48 133 Tm
+(Free Gurukul Foundation - Learning initiatives and mentoring support.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000002896 00000 n 
+0000003022 00000 n 
+0000005422 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+5492
+%%EOF
