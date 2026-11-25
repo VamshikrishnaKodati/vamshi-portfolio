@@ -8,6 +8,12 @@ Five themes. One profile file. No framework, build step, package manager or paid
 
 [Personal portfolio](https://vamshikrishnakodati.github.io/vamshi-portfolio/) · [Template demo (after deployment)](https://vamshikrishnakodati.github.io/vamshi-portfolio/template/)
 
+## Start here — illustrated beginner guide
+
+![Six-step setup workflow](template/previews/setup-guide.svg)
+
+**[Read the full step-by-step guide](template/GETTING_STARTED.md)** — includes where to click, before-and-after code, personal information, projects, résumé, WhatsApp, themes and publishing.
+
 ## Make it yours
 
 1. Download **only the contents of the `template/` directory** from this repository. Do not fork the personal résumé or copy the personal site at the repository root.
